@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+ModulePmToolsName = PmTools
+PmToolsDescription = Ticket- und Projektwerkzeuge für die REST-API und den MCP-Server
+PmToolsDescriptionLong = Ergänzt REST-Endpunkte für Ticket-Wörterbücher sowie zum Schließen, Abbrechen und Wiedereröffnen von Tickets und meldet Ticket- und Projektwerkzeuge beim MCP-Server des Kerns an.
+Permission5003021 = Ticket-Wörterbücher verwalten (Typen, Schweregrade, Kategorien)

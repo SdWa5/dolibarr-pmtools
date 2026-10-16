@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+ModulePmToolsName = PmTools
+PmToolsDescription = Ticket and project tools for the REST API and the MCP server
+PmToolsDescriptionLong = Adds REST endpoints for ticket dictionaries and for closing, canceling and reopening tickets, and registers ticket and project tools with the core MCP server.
+Permission5003021 = Manage ticket dictionaries (types, severities, categories)
