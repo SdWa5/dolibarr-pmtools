@@ -7,6 +7,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Changed
+
+- PHPUnit also runs on PHP 8.5, which the SdWa5 Dolibarr image uses since 2026-10-24.
+
 ## [1.0.0] - 2026-10-16
 
 ### Added
